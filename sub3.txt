@@ -4,3 +4,7 @@ Spain
 Germany
 France
 Italy
+Russia
+Netherlands
+Sweden
+Turkey
